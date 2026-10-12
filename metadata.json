@@ -1,0 +1,7 @@
+{
+  "name": "Xenturalt Learn",
+  "description": "Premium EdTech Android Application for Students, Teachers & Parents",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
